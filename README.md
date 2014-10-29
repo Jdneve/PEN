@@ -2,15 +2,10 @@
 A Software Engineering Project
 
 ##Important links
-Trello Requirements board: https://trello.com/b/MsrI1Ysl/requirements
+Trello boards: https://trello.com/softwareengineering29
 
 Dropbox folder for documents: https://www.dropbox.com/sh/8dlg0fsi1fgq3n7/AAC2M0JPp1GlAxCZjSGLIXKEa?dl=0
 
 ShareLaTeX for creating documents: https://www.sharelatex.com/project/5440e1ad33c0006f1414598f
 
-##Reading materials
-A Git tutorial: http://www.git-scm.com/book/en/Getting-Started
-
-JavaScript: The Good Parts: http://it-ebooks.info/book/274/
-
-Intro to SQL: http://www.sqlcourse2.com/
+Wilma home page: http://wilma.vub.ac.be/~se1_1415/PEN.html
